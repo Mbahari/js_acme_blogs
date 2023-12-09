@@ -336,6 +336,6 @@ function createElemWithText(HTMLElemStrngToCrt = "p", txtContntOfElToCrt = "", c
                selectMenu.addEventListener("change", selectMenuChangeEventHandler, false);
            }
        });
-   }
+    }
    
    document.addEventListener("DOMContentLoaded", initApp, false);
